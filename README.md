@@ -1,2 +1,3 @@
 # hello-world-
-Repository num 1
+
+My name is Psalm Exequiel S. Tupaz. This is my repository.
